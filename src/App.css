@@ -40,3 +40,12 @@
 .read-the-docs {
   color: #888;
 } */
+
+@font-face {
+  font-family: "integral";
+  src: url(./fonts/Fontspring-DEMO-integralcf-regular.otf);
+}
+
+.integral{
+  font-family: integral;
+}

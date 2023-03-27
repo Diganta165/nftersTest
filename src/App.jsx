@@ -2,6 +2,9 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+// fonts
+// import "./fonts/Fontspring-DEMO-integralcf-bold.otf";
+import "./fonts/Fontspring-DEMO-integralcf-regular.otf";
 import { Routes, Route } from 'react-router-dom'
 import NoPage from './pages/NoPage/NoPage'
 import HomePage from './pages/HomePage/HomePage'

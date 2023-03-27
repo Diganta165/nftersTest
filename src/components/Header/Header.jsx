@@ -5,7 +5,8 @@ const Header = () => {
         <>
             <div>
                 <div className='business_name_wrapper'>
-                    <h1 className='business_name primary-color text-[#50d71e]'>NFTERS</h1>
+                {/* text-[#50d71e] */}
+                    <h1 className='business_name primary-color text-[#3D00B7] font-bold text-2xl'>NFTERS</h1>
                 </div>
             </div>  
         </>
