@@ -1,0 +1,5 @@
+.slider_card:hover{
+    z-index: 10 !important;
+    transform: translateX(-42px)!important;
+    scale: 1.2!important;
+}

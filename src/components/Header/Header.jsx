@@ -20,7 +20,7 @@ const Header = () => {
 
     return (
         <>
-            <ul className='flex justify-between items-center px-2 sm: py-2 lg:py-[30px] xl:px-[120px]'>
+            <ul className='flex justify-between items-center px-2 border-b-2 sm: py-2 lg:py-[30px] xl:px-[120px]'>
                 <li className='business_name_wrapper'>
                     <h1 className='business_name primary-color text-[#3D00B7] font-bold text-2xl lg:h-7 lg:leading-7'>NFTERS</h1>
                 </li>
