@@ -1,0 +1,37 @@
+[
+    {
+      "image": "../../../public/images/featured_card_image1.png",
+      "name": "Product 1",
+      "profilePic": "https://example.com/profile1.jpg",
+      "price": 10.99,
+      "stock": 20
+    },
+    {
+      "image": "../../../public/images/featured_card_image2.png",
+      "name": "Product 2",
+      "profilePic": "https://example.com/profile2.jpg",
+      "price": 20.99,
+      "stock": 15
+    },
+    {
+      "image": "../../../public/images/featured_card_image3.png",
+      "name": "Product 3",
+      "profilePic": "https://example.com/profile3.jpg",
+      "price": 15.99,
+      "stock": 10
+    },
+    {
+      "image": "../../../public/images/featured_card_image4.png",
+      "name": "Product 4",
+      "profilePic": "https://example.com/profile4.jpg",
+      "price": 25.99,
+      "stock": 5
+    },
+    {
+      "image": "../../../public/images/featured_card_image5.png",
+      "name": "Product 5",
+      "profilePic": "https://example.com/profile5.jpg",
+      "price": 30.99,
+      "stock": 25
+    }
+  ]
