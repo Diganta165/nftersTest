@@ -54,9 +54,7 @@ const Header = () => {
                     <input type="text" placeholder='Search' className='search_input box-border mx-2 w-full h-8 border-solid border-2 border-[#EFEFEF] rounded-[100px] placeholder: py-[14px] pl-[30px]'/>
                 </li>
             </ul>
-            {/* #######
-                Sidebar Starts
-             ##########*/}
+            {/*Sidebar Starts*/}
             <div className={isOpen === true ? "sidebar sidebar_popup sidebar_show" : "sidebar sidebar_popup"} id='sidebar_section' onClick={(event)=> clickOutsideSidebar(event)}>
                 <div className='sidebar_container' id='sidebar_container_id' >
                     <div>
@@ -74,9 +72,7 @@ const Header = () => {
                     </div>
                 </div>
             </div>
-            {/* #######
-                Sidebar Ends
-             ##########*/}
+            {/*Sidebar Ends*/}
         </>
     );
 };
