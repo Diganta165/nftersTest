@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Abstr Gradient NFT",
+        "profilePic": "../../../public/images/profile_image.png",
+        "name": "Arkhan17",
+        "bidPrice": "0.25 ETH",
+        "cryptoSVG": "../../../public/svgs/ethereum.svg",
+        "endTime": "July 21, 2023 01:15:00:526",
+        "image": "../../../public/images/slider_image_1.png"
+    },
+    {
+        "title": "Abstr Gradient NFT",
+        "profilePic": "../../../public/images/profile_image.png",
+        "name": "Arkhan17",
+        "bidPrice": "0.25 ETH",
+        "cryptoSVG": "../../../public/svgs/ethereum.svg",
+        "endTime": "July 21, 2023 01:15:00:526",
+        "image": "../../../public/images/slider_image_2.png"
+    },
+    {
+        "title": "Abstr Gradient NFT",
+        "profilePic": "../../../public/images/profile_image.png",
+        "name": "Arkhan17",
+        "bidPrice": "0.25 ETH",
+        "cryptoSVG": "../../../public/svgs/ethereum.svg",
+        "endTime": "July 21, 2023 01:15:00:526",
+        "image": "../../../public/images/slider_image_3.png"
+    }
+]
