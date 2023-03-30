@@ -3,9 +3,9 @@ import React from 'react';
 const BannerSection = () => {
     return (
         <>
-            <section className='w-screen bg-[#F7F9FB] backdrop-blur-xl mt-8 flex flex-col px-2 pt-8 gap-y-6 md:mt-[80px] lg:mt-[122px] lg:flex-row lg:py-32 xl:px-[120px] lg:gap-x-[66px] xl:py-32 xl:gap-x-[86px]'>
+            <section className='w-100% bg-[#F7F9FB] backdrop-blur-xl mt-8 flex flex-col px-2 pt-8 gap-y-6 md:mt-[80px] lg:mt-[122px] lg:flex-row lg:py-32 xl:px-[120px] lg:gap-x-[66px] xl:py-32 xl:gap-x-[86px]'>
                 <div className='banner_heading lg:max-w-[400px]'>
-                    <h1 className='text-[28px] font-bold  text-center lg:text-left'>THE AMAZING NFT ART OF THE WORLD HERE</h1>
+                    <h1 className='text-[28px] font-bold  text-center lg:text-left font-integral font-dmSans'>THE AMAZING NFT ART OF THE WORLD HERE</h1>
                 </div>
                 <div className='banner_first_card flex flex-row gap-x-4 lg:min-w-[300px]'>
                     <div className='card_svg_icon'>

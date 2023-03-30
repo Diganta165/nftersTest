@@ -43,9 +43,12 @@
 
 @font-face {
   font-family: "integral";
-  src: url(./fonts/Fontspring-DEMO-integralcf-regular.otf);
+  src: url(./fonts/Fontspring-DEMO-integralcf-regular.otf), url(./fonts/DMSans-Regular.ttf), url(./fonts/Poppins-SemiBold.ttf);
 }
 
 .integral{
-  font-family: integral;
+  font-family: integral, DM Sans, Poppins;
 }
+
+
+

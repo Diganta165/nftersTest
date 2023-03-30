@@ -4,11 +4,12 @@
 @tailwind components;
 @tailwind utilities;
 
-@import "./fonts/Fontspring-DEMO-integralcf-regular.otf";
+@import url("./fonts/Fontspring-DEMO-integralcf-regular.otf");
 
 
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif, integral;
+  /* Inter, system-ui, Avenir, Helvetica, Arial, sans-serif, */
+  /* font-family:  integral; */
   line-height: 1.5;
   font-weight: 400;
 
@@ -82,3 +83,5 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
+
+/* * { border: 1px solid black; } */
