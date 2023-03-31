@@ -9,7 +9,7 @@ const TopCollectionSegment = () => {
         .then(res => res.json())
         .then(data => setTopData(data))
     }, []);
-    console.log("topData", topData)
+
     return (
         <>
           <div className='top_collections_segment flex flex-col border-l-2 pl-8'>

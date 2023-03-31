@@ -20,8 +20,8 @@ const BannerSection = () => {
                         </span>
                     </div>
                     <div>
-                        <h3 className='card_title text-xl font-bold'>Fast Transaction</h3>
-                        <p className='card_description text-[#696969] text-sm font-normal leading-5'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam etiam viverra tellus imperdiet.</p>
+                        <h3 className='card_title text-xl font-bold font-dmSans'>Fast Transaction</h3>
+                        <p className='card_description text-[#696969] text-sm font-normal leading-5 font-dmSans'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam etiam viverra tellus imperdiet.</p>
                     </div>
                 </div>
                 <div className='banner_first_card flex flex-row gap-x-4 lg:min-w-[300px]'>
@@ -36,8 +36,8 @@ const BannerSection = () => {
                         </span>
                     </div>
                     <div>
-                        <h3 className='card_title text-xl font-bold'>Fast Transaction</h3>
-                        <p className='card_description text-[#696969] text-sm font-normal leading-5'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam etiam viverra tellus</p>
+                        <h3 className='card_title text-xl font-bold font-dmSans'>Fast Transaction</h3>
+                        <p className='card_description text-[#696969] text-sm font-normal leading-5 font-dmSans'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam etiam viverra tellus</p>
                     </div>
                 </div>
                 

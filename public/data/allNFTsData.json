@@ -1,0 +1,484 @@
+[
+    {
+      "title": "Product 1",
+      "category": "Sport",
+      "image": "../../../public/images/card_image_1.png",
+      "price": 9.99,
+      "amount": 10,
+      "time": "1 hour ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+      
+    },
+    {
+      "title": "Product 2",
+      "category": "Sport",
+      "image": "../../../public/images/featured_card_image3.png",
+      "price": 19.99,
+      "amount": 5,
+      "time": "2 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 3",
+      "category": "Art",
+      "image": "../../../public/images/featured_card_image3.png",
+      "price": 14.99,
+      "amount": 7,
+      "time": "3 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 4",
+      "category": "Celebrities",
+      "image": "../../../public/images/featured_card_image2.png",
+      "price": 29.99,
+      "amount": 3,
+      "time": "4 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 5",
+      "category": "Gaming",
+      "image": "../../../public/images/card_image_1.png",
+      "price": 39.99,
+      "amount": 2,
+      "time": "5 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 6",
+      "category": "Music",
+      "image": "../../../public/images/featured_card_image3.png",
+      "price": 24.99,
+      "amount": 6,
+      "time": "6 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 7",
+      "category": "Crypto",
+      "image": "../../../public/images/featured_card_image2.png",
+      "price": 34.99,
+      "amount": 4,
+      "time": "7 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 8",
+      "category": "Crypto",
+      "image": "../../../public/images/card_image_1.png",
+      "price": 49.99,
+      "amount": 1,
+      "time": "8 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 9",
+      "category": "Crypto",
+      "image": "../../../public/images/featured_card_image2.png",
+      "price": 59.99,
+      "amount": 0,
+      "time": "9 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 10",
+      "category": "Crypto",
+      "image": "../../../public/images/card_image_1.png",
+      "price": 10.99,
+      "amount": 8,
+      "time": "10 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 11",
+      "category": "Crypto",
+      "image": "../../../public/images/featured_card_image4.png",
+      "price": 8.99,
+      "amount": 9,
+      "time": "11 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 12",
+      "category": "Crypto",
+      "image": "../../../public/images/featured_card_image3.png",
+      "price": 15.99,
+      "amount": 6,
+      "time": "12 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 13",
+      "category": "Crypto",
+      "image": "../../../public/images/card_image_1.png",
+      "price": 19.99,
+      "amount": 5,
+      "time": "13 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 14",
+      "category": "Crypto",
+      "image": "../../../public/images/featured_card_image2.png",
+      "price": 24.99,
+      "amount": 4,
+      "time": "14 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 15",
+      "category": "Crypto",
+      "image": "../../../public/images/featured_card_image3.png",
+      "price": 29.99,
+      "amount": 3,
+      "time": "15 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    },
+    {
+      "title": "Product 16",
+      "category": "Crypto",
+      "image": "../../../public/images/featured_card_image4.png",
+      "price": 39.99,
+      "amount": 2,
+      "time": "12 hours ago",
+      "subscribed": [
+        {
+          "title": "Product 1",
+          "image": "../../../public/images/all_items_profile1.png"
+        },
+        {
+          "title": "Product 2",
+          "image": "../../../public/images/all_items_profile2.png"
+        },
+        {
+          "title": "Product 3",
+          "image": "../../../public/images/all_items_profile3.png"
+        },
+        {
+          "title": "Product 4",
+          "image": "../../../public/images/all_items_profile4.png"
+        },
+        {
+          "title": "Product 5",
+          "image": "../../../public/images/all_items_profile2.png"
+        }
+      ]
+    }
+]
+  

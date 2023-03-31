@@ -22,17 +22,17 @@ const Header = () => {
         <>
             <ul className='flex justify-between items-center px-2 border-b-2 sm: py-2 lg:py-[30px] xl:px-[120px]'>
                 <li className='business_name_wrapper'>
-                    <h1 className='business_name primary-color text-[#3D00B7] font-bold text-2xl lg:h-7 lg:leading-7'>NFTERS</h1>
+                    <h1 className='business_name primary-color text-[#3D00B7] font-bold text-2xl lg:h-7 lg:leading-7 font-integral'>NFTERS</h1>
                 </li>
                 <li className='header_nav_wrapper flex flex-row gap-x-12 hidden lg:flex lg:w-80'>
                     <span className='link_element hidden lg:block'>
-                        <Link to={"/marketplace"} className="text-[16px] font-medium">Marketplace</Link>
+                        <Link to={"/marketplace"} className="text-[16px] font-medium font-dmSans">Marketplace</Link>
                     </span>
                     <span className='link_element hidden lg:block'>
-                        <Link to={"/resource"} className="font-medium">Resource</Link>
+                        <Link to={"/resource"} className="font-medium font-dmSans">Resource</Link>
                     </span>
                     <span className='link_element hidden lg:block'>
-                        <Link to={"/about"} className="font-medium">About</Link>
+                        <Link to={"/about"} className="font-medium font-dmSans">About</Link>
                     </span>
                 </li>
                 <li className='search_element w-52 h-8 hidden sm:block w-96 lg:w-[300px] lg:h-[50px] lg:before:right-[14px] lg:before:top-[16px]'>

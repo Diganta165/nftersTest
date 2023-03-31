@@ -5,19 +5,17 @@ const SliderCard = (props) => {
     const {title, profilePic, name, bidPrice, cryptoSVG, endTime, image} = props.singleSlider;
     return (
         <>
-        {/* max-w-[400px] max-h-[440px] */}
-            {/* <div className='snap-center lg:absolute lg:right-0 lg:min-h-[440px]' style={{zIndex:4 - props.keyValue, right: -props.leftPosition + "px", top: props.topPosition + "px"}} > */}
-            <div className='slider_card snap-center lg:absolute lg:right-0 lg:min-h-[440px] transition duration-700 ease-in-out hover:scale-125' style={{zIndex:4 - props.keyValue, right: (props.leftPosition === 0)? "50px" : (props.leftPosition === 30)? "20px" : "-10px", top: props.topPosition + "px"}}>
+            <div className='slider_card snap-center lg:absolute lg:right-0 lg:min-h-[440px] transition duration-700 ease-in-out hover:scale-125-lg' style={{zIndex:4 - props.keyValue, right: (props.leftPosition === 0)? "50px" : (props.leftPosition === 30)? "20px" : "-10px", top: props.topPosition + "px"}}>
                 <div className='relative'>
                     <div className='card_image_wrapper max-w-[400px] max-h-[440px]'>
                         <img src={image} className="w-full min-w-[300px]" />
                     </div>
                     <div className='card_contents'>
                         <div className='top_content absolute top-6 left-6 flex flex-col gap-y-2.5'>
-                            <h1 className='font-bold text-xl text-[#fff] lg:text-[28px]'>{title}</h1>
+                            <h1 className='font-bold text-xl text-[#fff] lg:text-[28px] font-dmSans'>{title}</h1>
                             <div className='flex items-center gap-x-3.5'>
                                 <img src={profilePic} />
-                                <h1 className='font-bold text-base text-[#fff] lg:text-xl '>{name}</h1>
+                                <h1 className='font-bold text-base text-[#fff] lg:text-xl font-dmSans'>{name}</h1>
                             </div>
                         </div>
                         <div className='bottom_content absolute py-3.5 px-6 bottom-6 left-2.5   bg-white bg-opacity-50 backdrop-blur-xl rounded drop-shadow-lg'>
